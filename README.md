@@ -123,9 +123,13 @@ make verilate          # or run synthesis with Vivado, Genus, etc.
 ## 👨‍💻 Authors
 
 João Machado – [@joaojrmachado](https://github.com/joaojrmachado)
+
 Iuri Albandes – [@username](https://github.com/username)
+
 Marina Dias – [@username](https://github.com/username)
+
 Rafael Ferreira – [@username](https://github.com/username)
+
 Fernanda Gusmão – [@username](https://github.com/username)
 
 
